@@ -61,3 +61,7 @@ asynchronously! This protects our code from releasing Zalgo...
 
 If an error is thrown, it will propagate through the chain until it hits a
 method handling it.
+
+## Parallel Execution
+
+or Promise.all().
